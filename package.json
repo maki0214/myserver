@@ -1,0 +1,19 @@
+{
+  "name": "myserver",
+  "version": "1.0.0",
+  "description": "hello!!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maki0214/myserver.git"
+  },
+  "author": "maki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maki0214/myserver/issues"
+  },
+  "homepage": "https://github.com/maki0214/myserver#readme"
+}
